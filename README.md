@@ -29,26 +29,27 @@ cd remax-eg-real-estate-scraper
 
 
 ##  2️⃣ Install dependencies
-
+```
 pip install -r requirements.txt
+```
 
+##  ▶️ How to Run
 
-##▶️ How to Run
-
+```
 python scraper/main.py
-
+```
 
 ## 🛠 Tech Stack
-Python 🐍
-Requests
-BeautifulSoup (bs4)
-Pandas
-Threading (concurrent.futures)
+*  Python 🐍
+*  Requests
+*  BeautifulSoup (bs4)
+*  Pandas
+*  Threading (concurrent.futures)
 
 
 ## 📈 Future Improvements
-Proxy rotation support
-Selenium fallback for blocked pages
-Database support (SQLite / PostgreSQL)
-API version (FastAPI)
-Docker containerization
+*  Proxy rotation support
+*  Selenium fallback for blocked pages
+*  Database support (SQLite / PostgreSQL)
+*  API version (FastAPI)
+*  Docker containerization
