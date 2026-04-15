@@ -24,7 +24,6 @@ This version runs in a **sequential mode (no threading)** for better stability a
 remax-eg-scraper/
 │
 ├── scraper.py
-├── remax_partial.csv
 ├── remax_final.csv
 ├── requirements.txt
 └── README.md
